@@ -1,0 +1,35 @@
+#box{
+    width:100px;
+    height:100px;
+    background-color: green;
+}
+#box:hover{
+    width:100px;
+}
+#box2{
+    width:200px;
+    height:200px;
+    background: red;
+}
+#box3{
+    width:100px;
+    height:100px;
+    background: lightblue;
+}
+#box4{
+    width:100px;
+    height:100px;
+    background:lightgreen;
+}
+#box4{
+    width:100px;
+    height:100px;
+    background:pink;
+}
+#mypic{
+    width:100px;
+    height:100px;
+    background:pink;
+    background-image: url("omnamo.jpeg");
+    opacity:50%;
+}

@@ -1,0 +1,31 @@
+*{
+    font-family: "Courier New";
+}
+h1,h3{
+    color: #b92b27;
+}
+.upvote{
+    color: white;
+    background-color: green;
+}
+#myId p{
+    color:green;
+}
+p a{
+    color: yellow;;
+}
+nav ul li{
+    color: palevioletred;
+}
+p+h3{
+    text-decoration: underline;
+}
+.upvote+button{
+    background-color: bluishcolor;
+}
+div > input{
+    background-color: gray;
+}
+input[type="password"]{
+    color: rgb(255, 196, 196);
+}
